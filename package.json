@@ -36,7 +36,7 @@
         "@reduxjs/toolkit": "^1.9.1",
         "antd": "^5.1.0",
         "date-fns": "^2.29.3",
-        "dayjs": "^1.11.7",
+        "dayjs": "^1.11.13",
         "framer-motion": "^8.5.2",
         "howler": "^2.2.3",
         "mui-daterange-picker": "^1.0.5",
